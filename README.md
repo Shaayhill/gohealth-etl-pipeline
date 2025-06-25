@@ -48,7 +48,7 @@ Modularized code into ingest, transform, and main scripts
 
 Invalid or unmatched records are excluded from final outputs
 
-Data consistency checks added before joins to ensure referential integrity
+Data consistency checks added before joins to ensure integrity
 
 Schema enforced through pre-defined column name checks
 
